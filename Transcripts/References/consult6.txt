@@ -1,0 +1,23 @@
+﻿Arts: Goedemiddag, Tim. Waarmee kan ik je helpen vandaag?
+Patiënt: Goedemiddag. Uh, ik heb sinds gisteren een pijnlijke, rode plek op m’n onderarm. Het begon als een klein bultje, maar het is nu dik, warm en best gevoelig geworden.
+Arts: Oké. En wanneer is dat precies begonnen?
+Patiënt: Gisterochtend merkte ik het voor het eerst, maar sinds vannacht is het erger geworden. Ik ben ook een beetje moe, maar ik heb geen koorts of zo.
+Arts: Goed dat je langskomt. Heb je enig idee waardoor het zou kunnen komen? Is er iets gebeurd?
+Patiënt: Ja… ik doe aan MMA. En eergisteren heb ik gespart op de mat — best intensief. Op een gegeven moment was ik aan het rollen met iemand en die raakte me per ongeluk met zijn nagel of zo. Niet eens hard, maar ik had wel een klein krasje. Die mat was ook behoorlijk nat van het zweet, dus misschien is er daar iets fout gegaan.
+Arts: Dat zou heel goed kunnen. In contactsporten zoals MMA zien we vaker huidinfecties — zeker bij kleine wondjes en veel direct contact. Laat maar eens zien.
+[bekijkt de arm]
+Arts: Ja, dit ziet eruit als een huidinfectie, waarschijnlijk door een stafylokokkenbacterie. De huid is rood, warm, gezwollen, en ik zie beginnende pusophoping. Dat moet behandeld worden om erger te voorkomen.
+Patiënt: Wat moet ik nu doen?
+Arts: Ik geef je een antibioticakuur — flucloxacilline, die neem je vier keer per dag. Maak de kuur volledig af, ook als het snel beter gaat. En hou de plek schoon en droog. We tekenen even de roodheid af, zodat je thuis kunt zien of het uitbreidt.
+Patiënt: Oke. En trainen?
+Arts: Even niet. Geen sparren of contacttraining zolang de infectie actief is. Minimaal drie tot vijf dagen rust. Anders loop je risico op verspreiding of verergering — en je kunt ook anderen besmetten. Kom over drie dagen terug voor controle, dan bepalen we of je al mag opbouwen.
+Patiënt: Helder.
+Arts: Verder is het goed om op hygiëne te letten: direct douchen na training, matten schoonmaken, geen trainen met open wondjes — ook niet bij anderen.
+Patiënt: Ga ik doen.
+Arts: Mooi. Heb je op dit moment nog vragen?
+Patiënt: Uh, ja... ik heb vanavond eigenlijk een borrel. Mag ik alcohol drinken met die antibiotica?
+Arts: Goede vraag. In principe heeft flucloxacilline geen gevaarlijke wisselwerking met alcohol — dus één glas zou geen groot probleem zijn. Maar ik raad het toch sterk af, zeker zolang je lichaam met deze infectie bezig is. Alcohol kan je herstel vertragen en je sneller vermoeid maken. Dus als het even kan: liever overslaan of iets zonder alcohol nemen.
+Patiënt: Hm ja, dat dacht ik al. Dan sla ik vanavond even over. Beetje jammer, maar vooruit.
+Arts: Goede keuze. Je lichaam heeft nu alle energie nodig. Als je je weer fit voelt, kun je weer normaal meedoen.
+Patiënt: Top. Bedankt, dokter.
+Arts: Graag gedaan, Tim. Succes met je herstel — en hopelijk snel weer op de mat, in goede gezondheid.

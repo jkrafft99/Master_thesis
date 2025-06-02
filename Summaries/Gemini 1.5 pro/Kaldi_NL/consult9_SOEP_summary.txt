@@ -1,0 +1,27 @@
+S (Subjectief):
+
+- Klachten: Aanhoudende pijn in de voet, vermoeidheid.  Herhaaldelijke infecties in de voet, met name onder de bal van de voet en nu een dieperliggende infectie.
+- Duur:  Langdurige problematiek met meerdere eerdere wondzorg behandelingen en ziekenhuisopnames.
+- Ernst:  Ernstige infectie, mogelijk botbetrokkenheid.  Patiënt is bezorgd over de gevolgen.
+- Context:  Patiënt heeft al jaren last van zenuwpijn in zijn voeten.
+- Beleving:  Angst en onzekerheid over de voorgestelde amputatie en de gevolgen voor zijn mobiliteit en levenskwaliteit.
+
+O (Objectief):
+
+- Wondinspectie: Diepliggende infectie, waarschijnlijk botbetrokkenheid.
+- Röntgenfoto's:  Geen informatie beschikbaar (impliciet aanwezig, maar details ontbreken).
+- Eerdere behandelingen: Antibiotica en verbanden zonder voldoende effect.
+
+E (Evaluatie):
+
+- Voorlopige diagnose: Diepliggende infectie in de voet, mogelijk botbetrokkenheid, resistent tegen conservatieve behandeling.
+- Conclusie: Noodzaak tot chirurgische interventie.
+
+P (Plan):
+
+- Behandeling: Gedeeltelijke voorvoet amputatie (verwijdering tenen en aangedaan deel middenvoet) om de infectie te verwijderen.
+- Medicatie: Aanpassing medicatie bij pijn na evaluatie postoperatief.
+- Vervolgonderzoek:  Geen informatie beschikbaar (vervolgonderzoek wordt impliciet aangegeven, maar niet gespecificeerd).
+- Verwijzing: Verwijzing naar revalidatiearts en orthopedisch schoentechnicus.
+- Leefstijladvies:  Geen informatie beschikbaar.
+- Overige:  Patiënt krijgt schriftelijke informatie.  Mogelijkheid tot gesprek met wondverpleging en/of revalidatie.  Aanbod tot betrekken van familie (dochter komt later).  Vervolgconsult gepland voor later die dag of de volgende ochtend.

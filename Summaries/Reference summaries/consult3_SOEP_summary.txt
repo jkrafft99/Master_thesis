@@ -1,0 +1,7 @@
+S (Subjectief): Patiënt maakt zich zorgen naar aanleiding van de uitslag van een recent prostaatbiopt. Geen mictieklachten of andere symptomen. Emotionele belasting door diagnose "kanker", ondanks het ontbreken van klachten.
+
+O (Objectief): PSA was verhoogd. Biopt toont een laaggradig adenocarcinoom van de prostaat. Geen aanwijzingen voor metastasering. Klinisch stabiele situatie.
+
+E (Evaluatie): Laaggradig prostaatcarcinoom met indolent beloop. Geen directe indicatie voor curatieve behandeling. Actieve follow-up (“active surveillance”) is veilig en passend in deze context.
+
+P (Plan): Uitleg gegeven over beleid van actief volgen met regelmatige PSA-controles, herhaalbiopt en beeldvorming. Alternatief curatief beleid (prostatectomie of radiotherapie) besproken inclusief bijwerkingen. Patiënt krijgt folder mee en bedenktijd. Vervolgconsult ingepland.

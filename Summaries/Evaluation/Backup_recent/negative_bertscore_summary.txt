@@ -1,0 +1,13 @@
+Total summaries with negative BERT-Score F1: 1
+
+Distribution by AI model:
+  GPT 3.5 Turbo: 1 negative scores
+
+Distribution by ASR tool:
+  Speechmatics: 1 negative scores
+
+Worst 5 combinations:
+  GPT 3.5 Turbo + Speechmatics (Consult 9): -0.0010
+
+Raw vs Rescaled scores for negative cases:
+  GPT 3.5 Turbo + Speechmatics (Consult 9): Raw=0.8311, Rescaled=-0.0010

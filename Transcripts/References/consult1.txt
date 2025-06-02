@@ -1,0 +1,117 @@
+﻿Dokter: Nou meneer, hoe kan ik u vandaag helpen?
+
+Patiënt: Uh ja, ik heb sinds drie dagen last van diarree en dat beïnvloedt mijn dagelijkse bezigheden omdat ik steeds in de buurt van het toilet moet blijven.
+
+Dokter: Um, vervelend om te horen. Wanneer u zegt diarree, bedoelt u dan dat u vaker naar het toilet moet, of dat de ontlasting dunner is?
+
+Patiënt: Ja, het is uh dunne, waterige ontlasting en ik moet behoorlijk vaak naar het toilet. Ook voel ik wat pijn onderin mijn buik.
+
+Dokter: En uh hoe vaak gaat u per dag naar het toilet, bijvoorbeeld de afgelopen paar dagen?
+
+Patiënt: Um, zo'n zes of zeven keer per dag ongeveer.
+
+Dokter: Zes à zeven keer per dag, dus vooral waterig. Heeft u ook iets anders opgemerkt, zoals bloed bij de ontlasting?
+
+Patiënt: Nee, geen bloed, alleen waterige en dunne ontlasting.
+
+Dokter: U zei dat u ook buikpijn heeft. Waar precies heeft u pijn?
+
+Patiënt: Um, in mijn onderbuik, aan één kant.
+
+Dokter: En uh welke kant is dat precies?
+
+Patiënt: Aan de linkerkant.
+
+Dokter: Linkerkant. Kunt u omschrijven hoe de pijn aanvoelt?
+
+Patiënt: Het voelt um, als een soort kramp, een spierkramp, en ik voel me ook wat zwak en trillerig.
+
+Dokter: Is die pijn er constant of uh komt en gaat het?
+
+Patiënt: Het komt en gaat.
+
+Dokter: Verspreidt de pijn zich naar andere plekken, zoals uw rug?
+
+Patiënt: Uh nee, alleen mijn buik.
+
+Dokter: U zegt dat u zich ook zwak en trillerig voelt. Heeft u bijvoorbeeld ook koorts gehad?
+
+Patiënt: Um ja, aan het begin voelde ik me wat koortsig, zo'n drie of vier dagen geleden, maar nu niet meer.
+
+Dokter: Heeft u toen uw temperatuur gemeten?
+
+Patiënt: Nee, ik voelde me gewoon um wat warm.
+
+Dokter: Heeft u andere klachten gehad zoals zweten, nachtzweten of braken?
+
+Patiënt: Ja, ik heb uh in het begin overgegeven, maar nu niet meer.
+
+Dokter: Was dat braaksel gewoon de normale kleur zonder bloed?
+
+Patiënt: Ja, normaal braaksel, geen bloed.
+
+Dokter: Heeft u verder nog klachten behalve buikpijn, diarree en braken?
+
+Patiënt: Uh ja, ik heb minder eetlust, dus ik eet minder. Maar ik kan wel vocht binnenhouden.
+
+Dokter: Wat heeft u gegeten?
+
+Patiënt: Vooral um soep en lichte maaltijden zoals smoothies en vloeibaar voedsel.
+
+Dokter: U heeft nu drie dagen klachten. Weet u of er iets is geweest dat dit veroorzaakt kan hebben, zoals een afhaalmaaltijd of contact met mensen met soortgelijke klachten?
+
+Patiënt: Um, ik heb vier dagen geleden afhaaleten gehad van een Chinees restaurant, verder niets bijzonders.
+
+Dokter: Heeft iemand anders vergelijkbare klachten?
+
+Patiënt: Nee, mijn vrouw en twee kinderen niet, al heeft één kind wel gebraakt, maar zonder diarree.
+
+Dokter: En uh hoe is uw algemene gezondheid verder?
+
+Patiënt: Goed, afgezien van astma waarvoor ik een inhalator gebruik. Geen andere gezondheidsproblemen.
+
+Dokter: Is uw astma onder controle?
+
+Patiënt: Ja, dat is prima.
+
+Dokter: Neemt u naast de inhalator nog andere medicatie?
+
+Patiënt: Nee, verder niets.
+
+Dokter: U gaf aan dat dit uw dagelijkse leven beïnvloedt, op welke manier?
+
+Patiënt: Uh, ik moet voortdurend dicht bij een toilet blijven omdat ik vaak naar het toilet moet. Dat is mijn grootste probleem op dit moment.
+
+Dokter: En uh werkt u momenteel?
+
+Patiënt: Ja, ik ben accountant.
+
+Dokter: Bent u de afgelopen drie dagen naar het werk gegaan?
+
+Patiënt: Ja, maar dat was um behoorlijk moeilijk.
+
+Dokter: Dat kan ik me voorstellen. U woont samen met uw vrouw en twee kinderen, klopt dat?
+
+Patiënt: Ja, klopt.
+
+Dokter: Nog enkele vragen: rookt u?
+
+Patiënt: Uh nee, ik rook niet.
+
+Dokter: Drinkt u alcohol?
+
+Patiënt: Nee, ik drink geen alcohol.
+
+Dokter: Normaal gesproken zou ik u nu onderzoeken, maar um, op basis van uw verhaal denk ik dat u een gastro-enteritis heeft, oftewel een maag-darmontsteking, waarschijnlijk veroorzaakt door een virus, al kan een bacterie het ook veroorzaken. Op dit moment raad ik aan om goed te blijven drinken, eventueel ORS zoals Dioralyte te gebruiken om mineralen en vitamines aan te vullen, en bij koorts en pijn paracetamol te nemen. Ook adviseer ik om de komende twee à drie dagen thuis uit te rusten. Als uw klachten na een paar dagen niet verbeteren, zou ik u opnieuw willen zien om eventueel verdere onderzoeken te doen, zoals een ontlastingsonderzoek. Uh, klinkt dat duidelijk voor u?
+
+Patiënt: Ja, dat is heel duidelijk, dank u wel.
+
+Dokter: Heeft u nog vragen?
+
+Patiënt: Uh nee, geen verdere vragen.
+
+Dokter: Goed, dan wens ik u beterschap.
+
+Patiënt: Dank u wel, tot ziens.
+
+Dokter: Graag gedaan, tot ziens.

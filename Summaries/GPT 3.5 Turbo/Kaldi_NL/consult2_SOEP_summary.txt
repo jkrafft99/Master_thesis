@@ -1,0 +1,16 @@
+S (Subjectief):
+- Patiënt klaagt over onregelmatige hartslag en vermoeidheid.
+- Patiënt is al tien jaar hartpatiënt en gebruikt bloedverdunners en medicatie voor bloeddruk.
+- Patiënt heeft atriumfibrilleren waarvoor twee keer een elektrische cardioversie is gedaan, maar het ritme valt steeds terug.
+
+O (Objectief):
+- Geen informatie beschikbaar.
+
+E (Evaluatie):
+- Voorstel voor een volgende stap: overwegen van een thoracoscopie als behandeling voor aanhoudend atriumfibrilleren.
+- Thoracoscopie is een minimaal invasieve ingreep waarbij gebieden rond de longaders behandeld worden om elektrische prikkels te onderbreken.
+
+P (Plan):
+- Voorbereiding voor de thoracoscopie omvat een CT-scan van de borstkas voor planning van de ingreep.
+- Mogelijkheid van deelname aan een studie voor een MRI-scan als alternatief voor de CT-scan.
+- Patiënt krijgt een folder mee met informatie over de MRI-optie om thuis door te nemen en kan later beslissen of hij hieraan wil deelnemen.

@@ -1,0 +1,7 @@
+S (Subjectief): Patiënt met cardiale voorgeschiedenis (status na myocardinfarct, chronisch atriumfibrilleren, gebruik van apixaban, metoprolol en ACE-remmer) ervaart aanhoudende ritmestoornissen ondanks tweemaal uitgevoerde elektrische cardioversie. Klachten bestaan uit moeheid en onregelmatige hartslag. Hij is bezorgd over het chronisch karakter van de aandoening.
+
+O (Objectief): Ritmestoornissen recidiveren telkens na cardioversie. Medicamenteuze behandeling is optimaal ingesteld. Hartfunctie redelijk stabiel, geen tekenen van decompensatie. Geen klinische alarmsymptomen.
+
+E (Evaluatie): Persisterend symptomatisch atriumfibrilleren bij een patiënt met stabiele comorbiditeiten. Cardioversie onvoldoende effectief gebleken. Thoracoscopische ablatie overwegen.
+
+P (Plan): Voorlichting over thoracoscopische ablatie als minimaal invasieve optie. Voorbereiding middels beeldvorming (CT of MRI). Deelnamemogelijkheid aan wetenschappelijke studie met MRI besproken. Patiënt krijgt informatiefolder en bedenktijd. Vervolgafspraak ter besluitvorming.

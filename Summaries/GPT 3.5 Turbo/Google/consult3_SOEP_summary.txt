@@ -1,0 +1,22 @@
+S (Subjectief):
+- Patiënt maakt zich zorgen over de uitslag van het biopt.
+- PSA-waarde was verhoogd, laaggradige prostaatkanker vastgesteld.
+- Patiënt voelt zich ongemakkelijk bij idee van kanker, bezorgd over mogelijke behandelingen en bijwerkingen.
+
+O (Objectief):
+- Verhoogde PSA-waarde.
+- Diagnose van laaggradige prostaatkanker na biopt.
+- Bespreking van actief volgen (Active surveillance) als behandeloptie.
+- Mogelijke behandelingen: operatie of bestraling van de prostaat met risico op bijwerkingen.
+
+E (Evaluatie):
+- Voorlopige diagnose: laaggradige prostaatkanker.
+- Actief volgen (Active surveillance) wordt aanbevolen vanwege langzaam groeiende en weinig agressieve tumor.
+- Behandelingsopties zijn curatief, maar met risico op bijwerkingen.
+- Belang van bewuste keuze en medische begeleiding bij besluitvorming.
+
+P (Plan):
+- Patiënt krijgt folder mee met uitleg over actief volgen en behandelingsopties.
+- Patiënt mag thuis nadenken en met partner overleggen.
+- Mogelijkheid om vragen te stellen en verdere afspraken te maken.
+- Geen overhaaste beslissingen, contact houden voor eventuele vervolgstappen.

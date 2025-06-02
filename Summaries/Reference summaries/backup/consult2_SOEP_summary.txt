@@ -1,0 +1,4 @@
+S: Patiënt (man) met aanhoudend boezemfibrilleren ondanks eerdere cardioversies. Klachten: moeheid en onregelmatige hartslag.
+O: Hartfunctie redelijk stabiel, medicatiegebruik adequaat.
+E: Persisterend symptomatisch atriumfibrilleren.
+P: Voorstel thoracoscopische ablatie. Bespreking deelname MRI-studie. Folder mee, bedenktijd afgesproken.

@@ -1,0 +1,4 @@
+S: Patiënt (vrouw, primigravida) bij 8 weken zwangerschap. Geen relevante voorgeschiedenis. Geen medicatie behalve foliumzuur.
+O: Zwangerschapsduur op basis van amenorroedatum.
+E: Normale vroege zwangerschap.
+P: Echo (vaginaal), uitleg prenatale screening, leefstijladvies. Vervolgcontroles ingepland.

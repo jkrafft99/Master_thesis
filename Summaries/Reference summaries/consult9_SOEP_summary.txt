@@ -1,0 +1,7 @@
+S (Subjectief): Patiënt met recidiverende voetwonden bij diabetes mellitus. Klachten van persisterende wondpijn, vermoeidheid, en zorgen over genezing. Reeds langdurig wondzorgtraject en antibioticatherapie zonder blijvend effect.
+
+O (Objectief): Diepe wond met klinische tekenen van osteomyelitis. Beeldvorming en wondinspectie bevestigen uitgebreide infectie in voorvoet. Behandeling faalt.
+
+E (Evaluatie): Diabetisch voetulcus met osteomyelitis. Indicatie voor voorvoetamputatie ter voorkoming van uitbreiding naar onderbeen of sepsis.
+
+P (Plan): Voorlichting over ingreep, functionele impact en postoperatieve revalidatie. Patiënt krijgt bedenktijd. Betrokkenheid familie en revalidatieteam wordt georganiseerd. Eventueel pijnteam consulteren. Vervolgafspraak voor besluitvorming gepland.

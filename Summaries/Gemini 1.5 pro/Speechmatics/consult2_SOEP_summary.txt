@@ -1,0 +1,29 @@
+S (Subjectief):
+
+- Patiënt klaagt over aanhoudende onregelmatige hartslag.
+- Patiënt ervaart frequente vermoeidheid.
+- Patiënt is al 10 jaar onder behandeling voor hartproblemen.
+- Patiënt heeft eerder twee elektrische cardioversies ondergaan zonder blijvend succes.
+- Patiënt is bezorgd over de ingreep (thoracoscopische ablatie).
+
+O (Objectief):
+
+- Patiënt heeft een voorgeschiedenis van een licht hartinfarct.
+- Patiënt gebruikt EPEC Saban (bloedverdunner) tweemaal daags.
+- Patiënt gebruikt Metoprolol (beta-blocker) en een ACE-remmer voor bloeddrukregulatie.
+- Patiënt heeft aanhoudend atriumfibrilleren (boezemfibrilleren).
+- Hartfunctie is redelijk stabiel.
+- Voorgestelde behandeling: thoracoscopische ablatie.
+- Optie voor pre-operatieve beeldvorming: CT-scan van de borstkas of deelname aan een onderzoek met MRI-scan.
+
+E (Evaluatie):
+
+- Aanhoudend atriumfibrilleren ondanks eerdere cardioversies.
+- Thoracoscopische ablatie wordt voorgesteld als volgende behandelstap.
+- Keuze tussen CT-scan en MRI-scan voor pre-operatieve beeldvorming, waarbij de MRI-scan deel uitmaakt van een onderzoek.
+
+P (Plan):
+
+- Patiënt krijgt informatie over thoracoscopische ablatie en de keuze tussen CT-scan en MRI-scan (deelname aan onderzoek).
+- Patiënt krijgt een folder met informatie over de MRI-optie.
+- Vervolgconsult gepland om de keuze voor beeldvorming te bespreken.

@@ -1,0 +1,28 @@
+S (Subjectief):
+
+- Patiënt klaagt over aanhoudende onregelmatige hartslag.
+- Patiënt ervaart vermoeidheid.
+- Patiënt is al 10 jaar onder behandeling voor hartproblemen.
+- Patiënt heeft eerder twee elektrische cardioversies ondergaan zonder blijvend succes.
+- Patiënt is bezorgd over de ingreep (torakoscopische ablatie).
+
+O (Objectief):
+
+- Patiënt heeft een voorgeschiedenis van een licht hartinfarct.
+- Patiënt gebruikt Apixaban (bloedverdunner), Metoprolol (beta-blokker) en een ACE-remmer.
+- Patiënt heeft al twee jaar aanhoudend atriumfibrilleren.
+- Hartfunctie is redelijk stabiel.
+- Voorgestelde behandeling: torakoscopische ablatie.
+- Voorbereiding: CT-scan van de borstkas (mogelijk MRI-scan als deelname aan onderzoek).
+
+E (Evaluatie):
+
+- Aanhoudend atriumfibrilleren ondanks eerdere cardioversies.
+- Torakoscopische ablatie wordt voorgesteld als volgende behandelstap.
+- Optie voor MRI-scan in plaats van CT-scan als deelname aan onderzoek.
+
+P (Plan):
+
+- Patiënt krijgt informatie over torakoscopische ablatie en de mogelijkheid om deel te nemen aan een onderzoek met MRI-scan in plaats van CT-scan.
+- Patiënt krijgt een folder mee met informatie over de MRI-optie.
+- Vervolgconsult gepland om beslissing over de beeldvorming en de procedure te bespreken.

@@ -1,0 +1,6 @@
+Metric,Best_Score,Best_Combination,Worst_Score,Worst_Combination
+ROUGE-1 F1,0.5111111111111112,GPT 3.5 Turbo + Google,0.1962264150943396,GPT 3.5 Turbo + Kaldi_NL
+ROUGE-2 F1,0.19553072625698326,GPT 3.5 Turbo + Google,0.036585365853658534,Gemini 1.5 pro + Whisper
+ROUGE-L F1,0.32222222222222224,GPT 3.5 Turbo + Google,0.12546125461254612,GPT 3.5 Turbo + Google
+BERT-Score F1 (Raw),0.8636634945869446,GPT 3.5 Turbo + Google,0.831051230430603,GPT 3.5 Turbo + Speechmatics
+BERT-Score F1 (Rescaled),0.1921960413455963,GPT 3.5 Turbo + Google,-0.0010340582812204957,GPT 3.5 Turbo + Speechmatics

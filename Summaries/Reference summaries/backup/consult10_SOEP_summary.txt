@@ -1,0 +1,4 @@
+S: Patiënt (man, 76 jaar) met dyspneu. Diagnose: kleincellig longcarcinoom, stadium IV met metastasen.
+O: Beeldvorming en biopt: gemetastaseerd SCLC.
+E: Gevorderd stadium, ongeneeslijk.
+P: Palliatieve zorg gericht op comfort. Geen actieve behandeling gewenst. Thuiszorg via palliatief team geregeld. Familiegesprek volgt.

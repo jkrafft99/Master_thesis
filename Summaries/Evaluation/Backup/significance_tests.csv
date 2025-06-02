@@ -1,0 +1,5 @@
+Metric,P_Value,Significant,Better_System
+ROUGE-1-F,0.6272851643807371,False,No significant difference
+ROUGE-2-F,0.34716529149409325,False,No significant difference
+ROUGE-L-F,0.21131373006210197,False,No significant difference
+BERT-Score-F1,0.006657873602307518,True,GPT 3.5 Turbo

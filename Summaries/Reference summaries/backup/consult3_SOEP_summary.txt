@@ -1,0 +1,4 @@
+S: Patiënt (man) ongerust over diagnose prostaatcarcinoom. Geen klachten, PSA verhoogd, laaggradige tumor bij biopt.
+O: PSA verhoogd, biopt toont weinig agressieve tumor.
+E: Laaggradig prostaatcarcinoom.
+P: Actieve surveillance aanbevolen. Alternatief: operatief of radiotherapeutisch behandelen. Informatie mee, bedenktijd besproken.
