@@ -1,4 +1,0 @@
-S: Patiënt (vrouw) met cosmetisch en fysiek storende varices, moe en zwaar gevoel rechterbeen.
-O: Duplex: insufficiëntie oppervlakkige vene.
-E: Varices met medische en cosmetische bezwaren.
-P: Laserbehandeling gepland, evt. sclerotherapie aanvullend. Advies steunkousen en beweging. Vergoeding afhankelijk van klachten.

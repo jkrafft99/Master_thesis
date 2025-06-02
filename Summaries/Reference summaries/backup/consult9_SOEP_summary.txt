@@ -1,4 +1,0 @@
-S: Patiënt (man) met chronisch wondprobleem voet, nu diepe infectie met osteomyelitis. Klachten: pijn en vermoeidheid.
-O: Beeldvorming: infectie tot in het bot.
-E: Osteomyelitis, therapieresistent.
-P: Voorvoetamputatie geadviseerd. Revalidatieteam en pijnteam worden betrokken. Bedenktijd en familiegesprek ingepland.

@@ -1,4 +1,0 @@
-S: Patiënt (man, sporter) met sinds 1 dag pijnlijke, rode, warme zwelling op onderarm na kras tijdens MMA-training. Geen koorts, wel moe.
-O: Lokale zwelling met pus, tekenen van bacteriële huidinfectie.
-E: Huidinfectie, waarschijnlijk stafylokokken.
-P: Start flucloxacilline, hygiëneadvies, rust (geen training). Controle na 3 dagen.
